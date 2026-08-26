@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📌 Projects
-- [🔒 My Private Project](https://github.com/parksj003/ZPLM)
+- [🔒 ZPLM](https://github.com/parksj003/ZPLM)
+- [🔒 ZPLM](https://github.com/parksj003/trading-journal-data)
