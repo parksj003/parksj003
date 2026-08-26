@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📌 Projects
 - [🔒 ZPLM](https://github.com/parksj003/ZPLM)
-- [🔒 ZPLM](https://github.com/parksj003/trading-journal-data)
+- [🔒 trading-journal-data](https://github.com/parksj003/trading-journal-data)
