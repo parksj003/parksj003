@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ### 📌 Projects
 - [🔒 ZPLM](https://github.com/parksj003/ZPLM)
 - [🔒 trading-journal-data](https://github.com/parksj003/trading-journal-data)
+- [🔒 trend-leader-watchlist](https://github.com/parksj003/trend-leader-watchlist
 - [⚡ termux](https://github.com/termux/termux-app/releases/download/v0.119.0-beta.3/termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a.apk)
